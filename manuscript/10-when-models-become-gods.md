@@ -1,0 +1,27 @@
+<!-- Recovery status: full prose recovered from steward thread lines 1137-1159 -->
+
+# When Models Become Gods
+
+In the earlier chapters I argued that most of what we treat as “reality” is really a model: a compressed story the nervous system uses to navigate the world. Nowhere is that clearer than in religion. The trouble is not that humans reach for meaning. The trouble begins when a human‑made model is handed down as if it were the structure of the universe itself.
+
+The Eden story makes more sense when read this way. The “tree of the knowledge of good and evil” can be treated as a primitive attempt to talk about self‑consciousness and responsibility. The moment you can distinguish good from evil, you are no longer an innocent animal. You know what you are doing. You can feel shame. You can say, “This was my choice.” In that sense, eating from the tree is the moment of accepting that everything you do has consequences and that those consequences are yours.
+
+If you take that seriously, there is no room left for blaming a serpent, a devil, a demon, or a fate. You are the problem. You are the reason it happened. Not in the sense of cosmic guilt, but in the plain, structural sense: your actions participate in the outcomes you are living in. Stoic philosophy and strands of Zen say similar things in different language: drop the story, face what is, and take ownership of your own moves.
+
+The parables in the gospels also make more sense as analogies than as biography. “A certain man went down from Jerusalem to Jericho, and fell among thieves.” “A master of a vineyard went out early in the morning to hire laborers.” These are not police reports. They are constructed scenarios that make a point about compassion, fairness, or status. The figures inside them—Samaritans, landowners, beggars, workers—are roles in a thought experiment.
+
+What later religious systems did, in my view, was to take these analogies and stitch them together into a single, oversized story. The teachings of many voices, over time, were packaged as if they came from one person, in one lifetime, with one name. That composite was then given titles: Joshua, Jesus, the Christ. The packaging is clever. It takes a set of models and attaches them to a hero figure so tightly that to question the models feels like betraying a person.
+
+It is not necessary to believe that there was no historical teacher at all. The structural point holds either way. The texts we have are edited, curated, and interpreted by communities with their own interests and blind spots. Those communities lived under empire and developed their stories in the shadow of Rome. They told themselves they were chosen, that a covenant set them apart, that history had a special plan for them. Groups in many traditions have done the same. When a community confuses “we have this story” with “we are a different kind of being,” superiority follows.
+
+Once a model of chosenness hardens, it becomes hard to see from the outside. Violence can be justified as obedience. Outsiders can be treated as less than fully human. Wars can be framed as holy. Today’s conflicts are not purely about doctrine, but doctrine supplies ready‑made fuel. An imaginary war between invisible beings provides a script in which real people can be killed with a clean conscience.
+
+The logic that undercuts the classic heaven/hell picture applies here too. A god who is all‑knowing, all‑powerful, and perfectly loving cannot coherently require worship, permit endless cycles of rape and murder, and then blame finite creatures for failing a test they did not design. Either the love is not what is claimed, or the power is not what is claimed, or the story is simply not an accurate description of whatever reality lies behind things. It is a model that cannot bear the weight people put on it.
+
+This book does not ask anyone to adopt my conclusion about gods. It asks them to notice what happens when a story is treated as more real than the people living inside it. When a model becomes a god, criticism feels like blasphemy. When criticism is blasphemy, correction becomes impossible. At that point, religion is not just another human attempt to make sense of things. It is an architecture that locks conflict in place.
+
+From the outside, the picture is simpler: different groups on the same planet, carrying incompatible maps they believe were handed down from beyond the world, arguing and killing over whose invisible map‑maker is real. The paradox is obvious if you are not inside any one of those maps. From within, it is almost invisible.
+
+The claim this chapter makes is blunt: a planet that keeps treating religious models as if they were reality cannot sustain structural peace. The people inside those systems are not stupid or uniquely evil. They are doing what humans do when a model is fused with identity. The way out is not to find a better invisible map‑maker. It is to remember that all these stories are human constructions, subject to the same tests as any other model: logic, empathy, and observable consequences.
+
+Once that is clear, religion can be analyzed alongside every other system in this book. It is one more architecture in which perception, power, and identity interact. The next chapters apply the same lens to constitutions, empires, and platforms—not because they are less dangerous than religion, but because they show how the same mistake appears wherever humans build structures and then forget that they built them.
