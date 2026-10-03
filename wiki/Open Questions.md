@@ -15,7 +15,7 @@ Every decision that is Ammon's. The numbering follows the handoff, section 9, so
 
 | # | Question | Status | Next |
 |---|---|---|---|
-| G0 | This repo is public. Before this wiki is pushed here: make the repo private, push anyway, or push somewhere else? See [[The Public Repository]]. | **asked, 30 Sept; asked again 3 Oct** | 1 |
+| G0 | This repo is public. Before this wiki is pushed here: make the repo private, push anyway, or push somewhere else? See [[The Public Repository]]. | **ruled 3 Oct: private, collaborators only.** Waiting on Ammon to flip the setting; this session cannot. | 1 |
 
 ## A. Title and subtitle
 

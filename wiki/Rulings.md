@@ -9,6 +9,15 @@ updated: 2026-10-03
 
 Every ruling that binds this book, newest first. A ruling is Ammon's alone. Where his exact words exist they are quoted. Where a ruling reached the record second hand it is marked **relayed**, and it stands until he confirms or corrects it. Open decisions are in [[Open Questions]].
 
+## 3 October 2026, 12:20 CT, in this thread
+
+> [!quote] Ammon
+> "Make it private only shared with collaboration"
+
+**The steward's reading:** make `ammoncovino/the-unownable-center` private, visible only to Ammon and collaborators he invites. This answers G0 in [[Open Questions]]: once the repo is private, push the wiki.
+
+**Carried out:** not yet. GitHub refused the settings change from this session ("Repository settings writes are not permitted through this proxy"). Ammon makes the switch himself in the repo settings. The wiki is pushed after the API reports `private`.
+
 ## 3 October 2026, 08:47 CT, in this thread
 
 > [!quote] Ammon

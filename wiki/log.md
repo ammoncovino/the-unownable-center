@@ -43,3 +43,7 @@ Recorded in [[Rulings]], with his words and the steward's reading.
 - **Found and fixed in this repo's copy of `tools/build-github-wiki.sh`:** in `repo` mode it renamed `index.md` and `log.md` to `Index.md` and `Log.md` but left links pointing at the lowercase names, which break on GitHub. After the fix: 424 links in the render, 0 broken.
 - **Handed over, not fixed:** the series wiki's `tools/build-github-wiki.sh` (`ammoncovino/alpha-omega-wiki`) has the same bug. Not this steward's file. For whoever keeps that wiki.
 - Checks run: manuscript hash unchanged; no tracked file changed; link audit clean (52 pages, 0 broken, 0 orphans); no em dashes or contractions outside quotations; the nine-word title rule holds.
+
+## [2026-10-03] ruling | G0: make the repo private, collaborators only
+
+Ammon, 12:20 CT: "Make it private only shared with collaboration." Tried to set visibility through the GitHub API: refused, "Repository settings writes are not permitted through this proxy" (HTTP 403). The collaborator list cannot be read from here either. Visibility at 12:2x CT: still `public`. **Not pushed.** Push follows once the API reports `private`.
