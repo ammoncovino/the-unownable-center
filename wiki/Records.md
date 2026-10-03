@@ -43,6 +43,7 @@ Where things are, by id and size. The method's rule: hand a location, not a copy
 | QUESTIONS folder | `1sHzDi6Huc0yazv_nOjVn_skW-VGDCQqB` |
 | Canonical LOGS folder | `17xDrstD-NFaQhZQScUeR7aldbvLo8pyZ` |
 | This steward's first Drive log | `LOG_2026-09-30_unownable-editor-steward.md`, `1LL09T_dj2bI8bwajP_p0WiLVHrzkLeGt`, 6,189 bytes |
+| This steward's second Drive log | `LOG_2026-10-03_unownable-editor-steward.md`, `1hA9GOhiU-zlqnsBEPHLYISAfLmIoCtCg`, 4,111 bytes, 3 Oct 08:59 CT |
 
 The handoff, section 11, lists every other id (the Lens and Mitochondrial handoffs, the build order, hedge files, cover lock, Bowker and Lulu sheets, reader router files). Its copy is in `raw/`.
 
