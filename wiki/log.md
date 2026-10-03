@@ -47,3 +47,7 @@ Recorded in [[Rulings]], with his words and the steward's reading.
 ## [2026-10-03] ruling | G0: make the repo private, collaborators only
 
 Ammon, 12:20 CT: "Make it private only shared with collaboration." Tried to set visibility through the GitHub API: refused, "Repository settings writes are not permitted through this proxy" (HTTP 403). The collaborator list cannot be read from here either. Visibility at 12:2x CT: still `public`. **Not pushed.** Push follows once the API reports `private`.
+
+## [2026-10-03] ruling | G0 reversed: leave the repo public, push the wiki
+
+Ammon, 13:04 CT: "Leave it public." The 12:20 ruling to make it private is superseded; it was never carried out. Pushed branch `wiki-first-build` to the repo. Not merged into `main`: the steward does not merge.

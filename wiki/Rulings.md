@@ -9,6 +9,13 @@ updated: 2026-10-03
 
 Every ruling that binds this book, newest first. A ruling is Ammon's alone. Where his exact words exist they are quoted. Where a ruling reached the record second hand it is marked **relayed**, and it stands until he confirms or corrects it. Open decisions are in [[Open Questions]].
 
+## 3 October 2026, 13:04 CT, in this thread
+
+> [!quote] Ammon
+> "Leave it public"
+
+**Supersedes the 12:20 ruling.** The repo stays public, and the wiki is pushed to it as is. G0 in [[Open Questions]] is closed. Everything in this wiki, including the open questions and rulings, is readable by anyone who finds the repo.
+
 ## 3 October 2026, 12:20 CT, in this thread
 
 > [!quote] Ammon
