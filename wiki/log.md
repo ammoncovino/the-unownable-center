@@ -51,3 +51,4 @@ Ammon, 12:20 CT: "Make it private only shared with collaboration." Tried to set 
 ## [2026-10-03] ruling | G0 reversed: leave the repo public, push the wiki
 
 Ammon, 13:04 CT: "Leave it public." The 12:20 ruling to make it private is superseded; it was never carried out. Pushed branch `wiki-first-build` to the repo. Not merged into `main`: the steward does not merge.
+- 13:04 CT, Ammon: "I want people to have this." Opened pull request #1 (`wiki-first-build` into `main`) so the wiki shows on the repo's front page once Ammon merges it.
